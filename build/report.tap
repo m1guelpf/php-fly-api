@@ -1,0 +1,6 @@
+TAP version 13
+ok 1 - M1guelpf\FlyAPI\Test\FlyTest::it_does_not_have_token
+ok 2 - M1guelpf\FlyAPI\Test\FlyTest::you_can_set_api_token
+ok 3 - M1guelpf\FlyAPI\Test\FlyTest::you_can_get_client
+ok 4 - M1guelpf\FlyAPI\Test\FlyTest::you_can_set_client
+1..4

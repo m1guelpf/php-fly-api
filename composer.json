@@ -1,0 +1,39 @@
+{
+    "name": "m1guelpf/fly-api",
+    "description": "PHP Client for the Fly API",
+    "keywords": [
+        "fly",
+        "fly-api",
+        "m1guelpf"
+    ],
+    "homepage": "https://github.com/m1guelpf/php-fly-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miguel Piedrafita",
+            "email": "soy@miguelpiedrafita.com",
+            "homepage": "https://miguelpiedrafita.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : "^5.5|^7.0",
+        "guzzlehttp/guzzle":"^6.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "M1guelpf\\FlyAPI\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "M1guelpf\\FlyAPI\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}

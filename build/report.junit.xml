@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Fly Test Suite" tests="4" assertions="6" errors="0" failures="0" skipped="0" time="0.006154">
+    <testsuite name="M1guelpf\FlyAPI\Test\FlyTest" file="/home/m1guelpiedrafita/git/php-fly-api/tests/FlyTest.php" tests="4" assertions="6" errors="0" failures="0" skipped="0" time="0.006154">
+      <testcase name="it_does_not_have_token" class="M1guelpf\FlyAPI\Test\FlyTest" classname="M1guelpf.FlyAPI.Test.FlyTest" file="/home/m1guelpiedrafita/git/php-fly-api/tests/FlyTest.php" line="21" assertions="1" time="0.004290"/>
+      <testcase name="you_can_set_api_token" class="M1guelpf\FlyAPI\Test\FlyTest" classname="M1guelpf.FlyAPI.Test.FlyTest" file="/home/m1guelpiedrafita/git/php-fly-api/tests/FlyTest.php" line="27" assertions="1" time="0.000242"/>
+      <testcase name="you_can_get_client" class="M1guelpf\FlyAPI\Test\FlyTest" classname="M1guelpf.FlyAPI.Test.FlyTest" file="/home/m1guelpiedrafita/git/php-fly-api/tests/FlyTest.php" line="34" assertions="1" time="0.000163"/>
+      <testcase name="you_can_set_client" class="M1guelpf\FlyAPI\Test\FlyTest" classname="M1guelpf.FlyAPI.Test.FlyTest" file="/home/m1guelpiedrafita/git/php-fly-api/tests/FlyTest.php" line="40" assertions="3" time="0.001459"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
