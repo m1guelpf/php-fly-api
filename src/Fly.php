@@ -210,7 +210,7 @@ class Fly
       }
 
       if(!empty($rawData)) {
-        $data['json'] = $rawdata;
+        $data['json'] = $rawData;
       }
 
       $results = $this->client
