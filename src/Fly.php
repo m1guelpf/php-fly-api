@@ -201,7 +201,7 @@ class Fly
     protected function handleCall($method, $resource, array $query, array $rawData)
     {
       $data['headers'] = [
-        'Authorization' => 'Bearer: '.$this->apiToken,
+        'Authorization' => 'Bearer '.$this->apiToken,
         'User-Agent' => 'php-fly-api'
       ];
 
