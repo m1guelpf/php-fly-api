@@ -1,4 +1,4 @@
-# PHP Sqreen API Client
+# PHP Fly.io API Client
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/m1guelpf/fly-api.svg?style=flat-square)](https://packagist.org/packages/m1guelpf/fly-api)
 [![Software License](https://img.shields.io/github/license/m1guelpf/php-fly-api.svg?style=flat-square)](LICENSE.md)
